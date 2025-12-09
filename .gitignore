@@ -1,0 +1,70 @@
+## .NET
+bin/
+obj/
+output/
+*.user
+*.suo
+*.cache
+.vs/
+.idea/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache/options directory
+.vs/
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Output directory
+output/
+publish/
+
+SqlServerTableDDLHttpService/obj/
+SqlServerTableDDLService/obj/
+SqlServerTableDDLHttpService/bin/
+SqlServerTableDDLService/bin/
+SqlServerTableDDLHttpService/output/
+SqlServerTableDDLService/output/
+
